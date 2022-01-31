@@ -2,8 +2,8 @@ name: python_lint
 
 on:
   push:
-    branches:
-      - main
+    #branches:
+    #  - main
   pull_request:
     paths:
       - '.github/workflows/python_lint.yml'

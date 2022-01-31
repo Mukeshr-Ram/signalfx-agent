@@ -2,8 +2,8 @@ name: modules_and_generate
 
 on:
   push:
-    branches:
-      - main
+    #branches:
+    #  - main
   pull_request:
 
 concurrency:
